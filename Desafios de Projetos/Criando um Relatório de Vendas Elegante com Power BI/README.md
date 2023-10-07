@@ -44,4 +44,4 @@ Para cumprir o desafio:
 
 Link Publicação Web (Público): [Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWZiNzEzZGUtNjczNS00YmEyLThhNzYtZjAwNzNmNmVmMzMyIiwidCI6IjQ1YTE1N2Q5LWQ5YmItNGUxZC05ODEwLWIyOGM0NGZjMGRkMyJ9)
 
-PDF: Relatório de Vedas com capturas das telas
+PDF: Relatório de Vendas com capturas das telas
