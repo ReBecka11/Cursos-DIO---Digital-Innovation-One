@@ -42,6 +42,6 @@ Para cumprir o desafio:
 
 ### Observações
 
-Link Publicação Web (Público): [Microsoft Power BI](https://app.powerbi.com/view?r=eyJrIjoiNWZiNzEzZGUtNjczNS00YmEyLThhNzYtZjAwNzNmNmVmMzMyIiwidCI6IjQ1YTE1N2Q5LWQ5YmItNGUxZC05ODEwLWIyOGM0NGZjMGRkMyJ9)
+Link Publicação Web (Público): https://app.powerbi.com/view?r=eyJrIjoiMTczNzAxMmEtOTUxOC00OTU2LTlhNGItYTA3NTQ5YzQ4MzdjIiwidCI6IjQ1YTE1N2Q5LWQ5YmItNGUxZC05ODEwLWIyOGM0NGZjMGRkMyJ9
 
 PDF: Relatório de Vendas com capturas das telas
